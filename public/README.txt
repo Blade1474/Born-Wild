@@ -1,0 +1,1 @@
+Place a small MP3 file at public/sample.mp3 to test the player. (I couldn't include a real mp3 in this zip).
